@@ -1,1 +1,1 @@
-# responsive-grid-layout
+# Responsive-Grid-Layout
